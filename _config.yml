@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Inventario
+title: Inventario Plato Team
 email: jmgomez@iaa.es
 description: >- # this means to ignore newlines until "baseurl:"
   Inventario del material del grupo PLATO.
