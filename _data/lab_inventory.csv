@@ -1,0 +1,7 @@
+id,nombre,modelo,marca,Numero Serie,url,fecha-compra,fecha-uso,fecha-calibracion
+0,Osciloscopio,MSO4104B-6,Tektronix,1234,MSO4104B-6,Oct 4 2017,Oct 4 2017,Oct 4 2017
+1,Osciloscopio,MSO4104,Tektronix,1234,MSO4104,Oct 4 2017,Oct 4 2017,Oct 4 2017
+2,Sonda,TPA1500,Tektronix,12345,TPA1500,Oct 4 2017,Oct 4 2017,Oct 4 2017
+3,Sonda,TPP1000,Tektronix,12345,TPP1000,Oct 4 2017,Oct 4 2017,Oct 4 2017
+4,Adaptador,Spw Brick MK3,Star-Dundee,1,Spw-Brick-MK3,Oct 4 2017,Oct 4 2017,Oct 4 2017
+5,Adaptador,Spw Brick MK3,Star-Dunde,2,Spw-Brick-MK3,Oct 4 2017,Oct 4 2017,Oct 4 2017
